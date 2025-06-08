@@ -1,65 +1,93 @@
-**My Resume - Atul Pawar**
-This repository contains the most up-to-date version of my resume.
+# 💚 My Resume - Atul Pawar
 
+Welcome to my resume repository! This contains the most up-to-date version of my professional resume in PDF format, along with an overview of my background, skills, experience, and projects.
 
-**About Me**
-I am Atul Pawar, a Senior Software Engineer based in Mumbai, Maharashtra, India. I am an experienced backend Java developer with approximately 3 years of proven expertise in designing and implementing software solutions. I am seeking to contribute my skills in collaborative and dynamic projects, while continuously expanding my knowledge to deliver high-quality and efficient code.
+---
 
+## 🧑‍💻 About Me
 
-**Skills**
-Languages: Java , Typescript
-Frameworks: Spring/Spring Boot, JPA/Hibernate, Spring Cloud, Spring Batch, Spring Security, Angular 
-Database: MySQL 
-Version Control: Git 
-Tools and Technologies: Microservices, IntelliJ, STS, Eclipse, Postman, VS Code, Git Bash, DBeaver, JIRA 
+I’m **Atul Pawar**, a **Senior Software Engineer** based in Mumbai, Maharashtra, India. With ~3 years of experience in backend Java development, I specialize in designing scalable and efficient software solutions. I thrive in collaborative environments and am passionate about building systems that solve real-world problems.
 
+---
 
-**Professional Experience**
-CAPGEMINI SERVICES TECHNOLOGY INDIA LTD. - Software Engineer (June 2022 - Present) 
+## 🛠️ Skills
 
--Served as a Software Developer within the Europe Business Unit for a prominent retail company operating across Spain.
--Played a key role in developing and enhancing applications utilizing Java Spring Boot and Microservices architecture, contributing to the successful delivery of 5 modules of a project.
--Collaborated closely with CI/CD and cross-functional teams to streamline application delivery processes, resulting in reduced deployment time by 15%.
--Led the development and seamless integration of backend systems with Angular frontend, enhancing user experience and optimizing application performance.
--Drove the development of applications following Agile Scrum methodology, ensuring iterative delivery of high-quality software and achieving improved team efficiency by 60%.
--Utilized JIRA for comprehensive bug tracking, GIT for version control, and Jenkins for seamless continuous integration, enhancing team collaboration and project efficiency.
--Implemented innovative strategies for Spring Batch integration in the current project, optimizing data processing efficiency and enhancing overall system performance.
--Wrote unit test cases using JUnit & Power Mockito to ensure code reliability and robustness.
--Proficiently worked on the entire Software Development Life Cycle (SDLC), from requirement analysis and design to coding, testing, and deployment.
+- **Languages**: Java, TypeScript  
+- **Frameworks**: Spring Boot, Spring Batch, Spring Cloud, Spring Security, JPA/Hibernate, Angular  
+- **Database**: MySQL  
+- **Version Control**: Git  
+- **Tools & Technologies**: Microservices, IntelliJ, STS, Eclipse, Postman, VS Code, Git Bash, DBeaver, JIRA  
 
-**Projects**
- Pedidos Centralizados :
-      Built a forecasting system for monthly product orders, utilizing historical sales data to predict demand and maintain optimal stock levels. Enhanced                                     store supply chain efficiency and reduced stockouts.
-      (Technologies: Java 8, Spring Boot, Spring Batch, MySQL, Angular 14) 
+---
 
- Tienda Online:  
-      Created an integrated platform for online store management, synchronizing inventory, processing customer orders, and managing product listings. Streamlined e-commerce operations        and improved order fulfillment efficiency.
-      (Technologies: Java 8, Spring Boot, Spring Batch, MySQL, Angular 14) 
-      
- Inventario Centralizado : 
-      Developed a centralized inventory management system to track stock levels across multiple store sections. Ensured real-time updates, automatic replenishment, and seamless               integration with other business processes for optimized stock control. 
-      (Technologies: Java 8, Spring Boot, Spring Batch, MySQL, Angular 14) 
+## 💼 Professional Experience
 
+**Capgemini Technology Services India Ltd.**  
+*Software Engineer | June 2022 – Present*
 
-**Education**
-Bachelor of Technology (B.Tech) - Vishwakarma Institute of Technology, Pune, Maharashtra, India (Aug 2018 - Aug 2021)
+- Contributed to 5 key modules for a major retail client in Spain using Java Spring Boot and Microservices architecture.
+- Enhanced CI/CD processes in collaboration with DevOps teams, reducing deployment time by 15%.
+- Integrated Angular frontend with Java-based backend for improved UX and performance.
+- Adopted Agile Scrum methodology to improve delivery speed by 60%.
+- Utilized tools like JIRA, Git, Jenkins, and Spring Batch to manage and deliver high-quality applications.
+- Authored unit tests using JUnit and PowerMockito for code robustness.
+- Experienced across the full Software Development Life Cycle (SDLC).
 
+---
 
-**Certifications**
--Java Full Stack Course from SDLA, Pune
--Java 8 Certification in Coursera 
--Gen AI (Beginner & Practitioner Level)
+## 🚀 Projects
 
+### 📦 Pedidos Centralizados  
+Built a monthly forecasting system for product demand using historical data to improve inventory management and reduce stockouts.  
+**Tech Stack**: Java 8, Spring Boot, Spring Batch, MySQL, Angular 14
 
-Files Included :
-ATUL_PAWAR_DEV.pdf: My resume in PDF format (recommended for viewing and printing).
-README.md: This file.
-How to View
-Simply click on the ATUL_PAWAR_DEV.pdf file in this repository to view it directly in your browser. You can also download it for offline access.
+### 🛒 Tienda Online  
+Created an e-commerce management platform for syncing inventory, order processing, and product listings to streamline operations.  
+**Tech Stack**: Java 8, Spring Boot, Spring Batch, MySQL, Angular 14
 
-**Contact**
-Feel free to reach out if you have any questions or opportunities you'd like to discuss!
+### 🧮 Inventario Centralizado  
+Developed a centralized system to track inventory in real-time across multiple store sections with auto-replenishment features.  
+**Tech Stack**: Java 8, Spring Boot, Spring Batch, MySQL, Angular 14
 
-Email: pawaratul58548@gmail.com
-LinkedIn: https://www.linkedin.com/in/atul-pawar28
-Phone: +91 9763939064
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech)**  
+Vishwakarma Institute of Technology, Pune, Maharashtra, India  
+*Aug 2018 – Aug 2021*
+
+---
+
+## 📜 Certifications
+
+- ✅ Java Full Stack Development – SDLA, Pune  
+- ✅ Java 8 Certification – Coursera  
+- ✅ Generative AI – Beginner & Practitioner Level
+
+---
+
+## 📁 Files Included
+
+- `ATUL_PAWAR_DEV.pdf` – My resume in PDF format (recommended for viewing and printing).
+- `README.md` – This overview file.
+
+---
+
+## 👀 How to View
+
+Click on the `ATUL_PAWAR_DEV.pdf` file in this repository to view directly in your browser. You can also download it for offline access.
+
+---
+
+## 📫 Contact
+
+Feel free to reach out for opportunities, collaboration, or questions.
+
+- 📧 **Email**: [pawaratul58548@gmail.com](mailto:pawaratul58548@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/atul-pawar28](https://www.linkedin.com/in/atul-pawar28)  
+- 📞 **Phone**: +91 9763939064
+
+---
+
+> 💡 *Thank you for visiting my resume repository!*
